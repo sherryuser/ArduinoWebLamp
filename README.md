@@ -29,7 +29,7 @@ Welcome to the repository for an innovative IoT Desk Lamp designed for modern un
 - Arduino IDE.
 - Arduino Nano.
 - ESP8266 NodeMCU.
-- WS2811b LED strip.
+- WS2812b LED strip.
 - TTP223 touch sensor
 - Relevant libraries (see `/libraries` directory).
 
